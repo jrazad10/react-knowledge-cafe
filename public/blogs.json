@@ -1,0 +1,53 @@
+[
+    {
+      "id": "12345",
+      "cover": "https://example.com/cover_image_1.jpg",
+      "title": "The Galactic Chronicles",
+      "author": "Sandra J. Smith",
+      "author_img": "https://example.com/author_image_1.jpg",
+      "posted_date": "2024-03-13",
+      "reading_time": 30,
+      "hashtags": ["#ScienceFiction", "#Adventure", "#Space"]
+    },
+    {
+      "id": "67890",
+      "cover": "https://example.com/cover_image_2.jpg",
+      "title": "Secrets of the Deep",
+      "author": "Max R. Johnson",
+      "author_img": "https://example.com/author_image_2.jpg",
+      "posted_date": "2024-03-12",
+      "reading_time": 45,
+      "hashtags": ["#Mystery", "#Thriller", "#Underwater"]
+    },
+    {
+      "id": "13579",
+      "cover": "https://example.com/cover_image_3.jpg",
+      "title": "The Art of Dreaming",
+      "author": "Emily K. Anderson",
+      "author_img": "https://example.com/author_image_3.jpg",
+      "posted_date": "2024-03-11",
+      "reading_time": 25,
+      "hashtags": ["#Fantasy", "#Dreams", "#Imagination"]
+    },
+    {
+      "id": "24680",
+      "cover": "https://example.com/cover_image_4.jpg",
+      "title": "The Codebreakers",
+      "author": "David S. Brown",
+      "author_img": "https://example.com/author_image_4.jpg",
+      "posted_date": "2024-03-10",
+      "reading_time": 35,
+      "hashtags": ["#HistoricalFiction", "#Codebreaking", "#WWII"]
+    },
+    {
+      "id": "98765",
+      "cover": "https://example.com/cover_image_5.jpg",
+      "title": "Beyond the Horizon",
+      "author": "Samantha W. Lee",
+      "author_img": "https://example.com/author_image_5.jpg",
+      "posted_date": "2024-03-09",
+      "reading_time": 50,
+      "hashtags": ["#Adventure", "#Exploration", "#Discovery"]
+    }
+  ]
+  
